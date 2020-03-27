@@ -10,3 +10,4 @@
   - Sqlite
   - ReactJS
   - React Native
+  - Jest (TDD)
